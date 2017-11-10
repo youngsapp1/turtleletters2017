@@ -110,7 +110,7 @@ def turtleLetter(letter,tur):
         tur.pu()
         tur.fd(5)
         tur.right(90)
-        tur.forward(15)
+        tur.forward(16)
     elif letter == "O":
 	    pass
     elif letter == "P":
